@@ -13,6 +13,7 @@ Fork the [People](https://github.com/TIY-Charleston-Back-End-Feb2016/People) pro
 * Loop over the `HashMap` and sort each list by last name.
 * Override `toString` in the `Person` class to print out a nicely-formatted string for that person (something like "Martha Jenkins from France").
 * Print out the entire `HashMap` at the end.
-* Break your code into separate methods and write tests for each one.
+* Break your code into separate methods.
 * Modify your `compareTo` method so it sorts by first name if the last names are the same.
 * Write the resulting `HashMap` to a file called "people.json" formatted as JSON.
+* Optional: Write tests for your methods.
