@@ -12,5 +12,7 @@ Fork the [Minicraft](https://github.com/TIY-Charleston-Back-End-Feb2016/Minicraf
 * Make the game draw the correct sprite (down, up, left, right) based on which direction you are going.
 * Prevent the player from walking outside of the screen.
 * Optional:
+  * Bring in the zombie tiles to draw a bad guy that walks around randomly.
+  * Draw a green background, then bring in the tree tile and draw it randomly in the background.
+  * When moving up or down, simulate a moving animation by constantly flipping the tile horizontally.
   * Use a `FitViewport` to make the game scale as the window is resized.
-  * Draw another character (using the exact same images) that just moves in one direction.
